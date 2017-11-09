@@ -2,9 +2,8 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creating a new branch is quick
-Creating a new branch is quick and simple.
 
+<<<<<<< HEAD
 
 分支管理策略, 来自dev分支
 
@@ -17,3 +16,6 @@ bug分支
 1. 我在dev分支上进行了一次修改 2017年11月9日08:59:26 本地1
 1. 我在dev分支上进行了一次修改 2017年11月9日08:59:26 本地1
 没看明白, 没弄懂.
+2. 我在dev分支上进行了一次修改---- 2017年11月9日09:00:58 -----本地2
+2. 我在dev分支上进行了一次修改---- 2017年11月9日09:00:58 -----本地2
+
