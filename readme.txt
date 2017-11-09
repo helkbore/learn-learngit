@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-<<<<<<< HEAD
+
 
 分支管理策略, 来自dev分支
 
